@@ -124,7 +124,7 @@ import java.util.Scanner;
                     neemKaart(spelerEen);
                     neemKaart(spelerEen);
                     System.out.println("Doordat er een 2 is gespeeld, pakte "+ spelerEen.spelerNaam +" twee kaarten ");}
-
+            case 7:
         }
     }
     public int userInput() {

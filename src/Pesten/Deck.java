@@ -21,6 +21,7 @@ public class Deck {
             joker.isJoker = true;
             joker.setCard_id(15);
             joker.card_name = "Joker";
+            Deck.add(joker);
         }
         return Deck;
 
